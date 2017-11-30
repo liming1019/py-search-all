@@ -1,0 +1,1 @@
+select cod_fee from t_top_interface_trade where cod_fee <>0
